@@ -17,6 +17,7 @@
 
 ## Python Django
 - [ ] Blog app
+- [ ] Build back-end for to-do list
 
 ## Writing
 - [ ] Write a dev.to post
