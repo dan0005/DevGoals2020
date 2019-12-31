@@ -1,27 +1,27 @@
 # DevGoals2020
-- ## Hurricane Cemetery Site
+## Hurricane Cemetery Site
 - [ ] Publish static site (HTML, CSS)
 - [ ] Uplift to use ReactJS components
 - [ ] Publish ReactJS site
 - [ ] Make the site admin-configurable (with Python Django?)
 - [ ] Publish configurable site
 
-- ## Personal Site (dan0005.github.io)
+## Personal Site (dan0005.github.io)
 - [ ] Design
 - [ ] Implement design
 - [ ] Buy domain name
 
-- ## ReactJS
+## ReactJS
 - [ ] To-do list app
 - [ ] React Native to-do list
 
-- ## PythonDjango
+## Python Django
 - [ ] Blog app
 
-- ## Writing
+## Writing
 - [ ] Write a dev.to post
 
-- ## Education
+## Education
 - [ ] Finish Master's in CPE
 - [ ] Finish Colt Steele Web Dev Bootcamp
 - [ ] Start Angela Yu Web Dev Bootcamp
