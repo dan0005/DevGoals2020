@@ -1,6 +1,7 @@
 # DevGoals2020
 ## Hurricane Cemetery Site
 - [ ] Publish static site (HTML, CSS)
+- [ ] Remove Bootstrap Dependency
 - [ ] Uplift to use ReactJS components
 - [ ] Publish ReactJS site
 - [ ] Make the site admin-configurable (with Python Django?)
